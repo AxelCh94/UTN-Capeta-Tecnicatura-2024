@@ -1,1 +1,2 @@
-Ejercicio: Uso de Rangos
+- Ejercicio: Uso de Rangos
+- Ejercicio: 1.2 Tuplas Parte 1 y 2
